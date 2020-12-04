@@ -1,0 +1,32 @@
+Christopher Llamas, chllamas
+Programming Assignment 4
+
+--
+Files
+
+List.h
+	Header file for List ADT
+List.c
+	Implementation file for List ADT
+Graph.h
+	Header file for Graph ADT
+Graph.c
+        Implementation file for Graph ADT
+GraphTest.c
+        Testing client for the Graph ADT
+FindComponents.c
+        Main client using Graph ADT and List ADT for PA 4
+Makefile
+	Makefile for PA4 Executables as well as valgrind functionality
+README
+        Current file displaying all included files for assignment
+
+--
+Design
+
+In Graph.c, functions DFS() and Visit() share one static integer variable, time,
+which is defined globally to the entire file.
+
+Graph.c is largely a copy of a previous iteration of Graph.c found in PA3.  Repeated
+functions from the previous project were unchanged, or slightly
+altered to fit the new needs of PA4.

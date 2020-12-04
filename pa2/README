@@ -1,0 +1,24 @@
+Christopher Llamas, chllamas
+Programming Assignment 2
+
+--
+Files
+
+Arithmetic.c
+        Top level client for PA 2
+BigInteger.c
+	Implementation file for BigInteger ADT
+BigInteger.h
+	Header file for BigInteger ADT
+BigIntegerTest.c
+	Client for testing functionality of BigInteger ADT
+List.c
+	Implementation file for List ADT
+List.h
+	Header file for List ADT
+ListTest.c
+	Client for testing functionality of List ADT
+README
+        File displaying all files included in this assignment
+Makefile
+        Makefile for PA 2

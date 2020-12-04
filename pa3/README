@@ -1,0 +1,22 @@
+Christopher Llamas, chllamas
+Programming Assignment 3
+
+--
+Files
+
+List.h
+	Header file for List ADT
+List.c
+	Implementation file for List ADT
+Graph.h
+	Header file for Graph ADT
+Graph.c
+        Implementation file for Graph ADT
+GraphTest.c
+        Testing client for the Graph ADT
+FindPath.c
+        Main client using Graph ADT and List ADT for PA 3
+Makefile
+	Makefile for PA3 Executables as well as valgrind functionality
+README
+        Current file displaying all included files for assignment

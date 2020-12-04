@@ -1,0 +1,18 @@
+Christopher Llamas, chllamas
+Programming Assignment 7
+
+--
+Files
+
+List.h
+	Header file for List ADT
+List.cpp
+	Implementation file for List ADT in C++
+ListClient.cpp
+        Testing client for the List ADT in C++
+Shuffle.cpp
+        Main client using List ADT for PA 7 in C++
+Makefile
+	Makefile for PA7 executables as well as valgrind functionality
+README
+        Current file displaying all included files for assignment

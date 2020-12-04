@@ -1,0 +1,18 @@
+Christopher Llamas, chllamas
+Programming Assignment 6
+
+--
+Files
+
+Dictionary.h
+	Header file for Dictionary ADT
+Dictionary.c
+	Implementation file for Dictionary ADT
+DictionaryTest.c
+        Testing client for the Dictionary ADT
+Order.c
+        Main client using Dictionary ADT for PA 6
+Makefile
+	Makefile for PA6 executables as well as valgrind functionality
+README
+        Current file displaying all included files for assignment

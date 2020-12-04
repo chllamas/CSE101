@@ -1,0 +1,16 @@
+Christopher Llamas, chllamas
+Programming Assignment 1
+
+--
+Files
+
+List.h
+	Header file for List ADT
+List.c 
+	Implementation file for List ADT
+ListClient.c
+	Testing client that uses List ADT
+Lex.c
+	Main program client for Programming Assignment 1; uses the List ADT
+Makefile
+	Makefile for Lex and ListClient executables
